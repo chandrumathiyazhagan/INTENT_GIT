@@ -157,15 +157,15 @@ public class MainActivity2 extends AppCompatActivity {
 
 ## OUTPUT:
 
-
+![1](https://github.com/chandrumathiyazhagan/INTENT_GIT/assets/119393023/9146f9be-1a2e-4f61-9d09-fe6abe8a80b8)
 
 ## EXPLICIT:
 
+![2](https://github.com/chandrumathiyazhagan/INTENT_GIT/assets/119393023/98e95377-e4f1-4879-aab5-b9f6ff243905)
 
 ## IMPLICIT:
 
-
-
+![3](https://github.com/chandrumathiyazhagan/INTENT_GIT/assets/119393023/1d522d0f-f26f-48c7-80c3-ec8c8923a057)
 
 ## RESULT:
 Thus a Simple Android Application to open google page using Implicit Intents in Android Studio was developed and executed successfully.
